@@ -1,2 +1,2 @@
-# Bouncing_rectangles
-function to bounce rectangles
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
